@@ -75,7 +75,7 @@ require (
 	github.com/hashicorp-forge/bbolt v1.3.8-hc3
 	github.com/hashicorp/cap v0.3.4
 	github.com/hashicorp/consul-template v0.33.0
-	github.com/hashicorp/consul/api v1.23.0
+	github.com/hashicorp/consul/api v1.26.1
 	github.com/hashicorp/errwrap v1.1.0
 	github.com/hashicorp/eventlogger v0.2.3
 	github.com/hashicorp/go-bexpr v0.1.12
@@ -390,7 +390,7 @@ require (
 	github.com/hashicorp/mdns v1.0.4 // indirect
 	github.com/hashicorp/net-rpc-msgpackrpc/v2 v2.0.0 // indirect
 	github.com/hashicorp/serf v0.10.1 // indirect
-	github.com/hashicorp/vault/api/auth/kubernetes v0.4.1 // indirect
+	github.com/hashicorp/vault/api/auth/kubernetes v0.5.0 // indirect
 	github.com/hashicorp/vic v1.5.1-0.20190403131502-bbfe86ec9443 // indirect
 	github.com/hashicorp/yamux v0.1.1 // indirect
 	github.com/huandu/xstrings v1.4.0 // indirect
@@ -531,3 +531,5 @@ require (
 )
 
 replace github.com/ma314smith/signedxml v1.1.1 => github.com/moov-io/signedxml v1.1.1
+
+replace github.com/hashicorp/consul-template v0.33.0 => github.com/kevinschoonover/consul-template v0.0.0-20240117044738-2d981a12105c
