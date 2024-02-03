@@ -2047,8 +2047,6 @@ github.com/hashicorp/cap/ldap v0.0.0-20230914221201-c4eecc7e31f7 h1:jgVdtp5YMn++
 github.com/hashicorp/cap/ldap v0.0.0-20230914221201-c4eecc7e31f7/go.mod h1:q+c9XV1VqloZFZMu+zdvfb0cm7UrvKbvtmTF5wX5Q9o=
 github.com/hashicorp/cli v1.1.6 h1:CMOV+/LJfL1tXCOKrgAX0uRKnzjj/mpmqNXloRSy2K8=
 github.com/hashicorp/cli v1.1.6/go.mod h1:MPon5QYlgjjo0BSoAiN0ESeT5fRzDjVRp+uioJ0piz4=
-github.com/hashicorp/consul-template v0.36.0 h1:elo9xh+rERrLVKMbEKbXoRagFvSTBG1S4GOXeH9/x8o=
-github.com/hashicorp/consul-template v0.36.0/go.mod h1:bvidXKwpfXzJ1X4wDw68OXnVxy5k7HLOHhOf5gnQr3M=
 github.com/hashicorp/consul/api v1.1.0/go.mod h1:VmuI/Lkw1nC05EYQWNKwWGbkg+FbDBtguAZLlVdkD9Q=
 github.com/hashicorp/consul/api v1.26.1 h1:5oSXOO5fboPZeW5SN+TdGFP/BILDgBm19OrPZ/pICIM=
 github.com/hashicorp/consul/api v1.26.1/go.mod h1:B4sQTeaSO16NtynqrAdwOlahJ7IUDZM9cj2420xYL8A=
@@ -2445,6 +2443,8 @@ github.com/kelseyhightower/envconfig v1.4.0 h1:Im6hONhd3pLkfDFsbRgu68RDNkGF1r3dv
 github.com/kelseyhightower/envconfig v1.4.0/go.mod h1:cccZRl6mQpaq41TPp5QxidR+Sa3axMbJDNb//FQX6Gg=
 github.com/kevinburke/ssh_config v1.2.0 h1:x584FjTGwHzMwvHx18PXxbBVzfnxogHaAReU4gf13a4=
 github.com/kevinburke/ssh_config v1.2.0/go.mod h1:CT57kijsi8u/K/BOFA39wgDQJ9CxiF4nAY/ojJ6r6mM=
+github.com/kevinschoonover/consul-template v0.0.0-20240117044738-2d981a12105c h1:dYTnrEkt9Gp5F8I5kQ3ChEB8pAr6eOV+O+Qtg2FuYmc=
+github.com/kevinschoonover/consul-template v0.0.0-20240117044738-2d981a12105c/go.mod h1:bvidXKwpfXzJ1X4wDw68OXnVxy5k7HLOHhOf5gnQr3M=
 github.com/kisielk/errcheck v1.1.0/go.mod h1:EZBBE59ingxPouuu3KfxchcWSUPOHkagtvWXihfKN4Q=
 github.com/kisielk/errcheck v1.2.0/go.mod h1:/BMXB+zMLi60iA8Vv6Ksmxu/1UDYcXs4uQLJ+jE2L00=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
