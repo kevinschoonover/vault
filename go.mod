@@ -547,3 +547,5 @@ require (
 )
 
 replace github.com/ma314smith/signedxml v1.1.1 => github.com/moov-io/signedxml v1.1.1
+
+replace github.com/hashicorp/consul-template v0.36.1-0.20240213145952-6c83e89b48af => github.com/kevinschoonover/consul-template v0.0.0-20240117044738-2d981a12105c
